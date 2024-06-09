@@ -1,6 +1,6 @@
 package config
 
-type KafkaConCfg struct {
+type KafkaConnCfg struct {
     Url string
     Topic string
 }
